@@ -1,0 +1,9 @@
+# Terraform-related
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# System or unnecessary files
+*.gpg
+*.zip
+LICENSE.txt
